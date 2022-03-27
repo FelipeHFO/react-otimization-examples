@@ -1,0 +1,12 @@
+.title {
+  font-size: 2em;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.buttonsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
